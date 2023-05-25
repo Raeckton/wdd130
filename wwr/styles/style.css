@@ -250,4 +250,24 @@ main section img {
     footer {
         margin-top: 25px;
     }
-}
+} #quote{
+    text-align: center;
+    color:antiquewhite;
+    }
+    body{
+        margin: auto;
+        background-color: #fca6c9;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        width: 55%;
+    }
+    h1{
+        color: white; 
+        font-weight: bold;
+    
+    
+    
+    }
+    h1:hover{
+        color: black;
+    }

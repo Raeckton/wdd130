@@ -1,0 +1,26 @@
+main {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.container2 {
+    background-color: #b9b8b9;
+    color: #9a1118;
+    text-align: center;
+    padding-top: 75%;
+    font-size: 75px;
+    letter-spacing: 10px;
+    font-family: Georgia;
+    font-weight: 900;
+}
+.text {
+    position: absolute;
+    font-size: 175px;
+    font-weight: 900;
+    font-family: georgia;
+    padding-top: 100px;
+    letter-spacing: 14px;
+    width: 100%;
+    text-align: center;
+
+}
