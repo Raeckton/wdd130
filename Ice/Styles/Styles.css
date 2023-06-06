@@ -7,7 +7,7 @@ main {
     background-color: #b9b8b9;
     color: #9a1118;
     text-align: center;
-    padding-top: 75%;
+    padding-top: 50%;
     font-size: 75px;
     letter-spacing: 10px;
     font-family: Georgia;
@@ -15,11 +15,11 @@ main {
 }
 .text {
     position: absolute;
-    font-size: 175px;
+    font-size: 250px;
     font-weight: 900;
     font-family: georgia;
     padding-top: 100px;
-    letter-spacing: 14px;
+    letter-spacing: 15px;
     width: 100%;
     text-align: center;
 
